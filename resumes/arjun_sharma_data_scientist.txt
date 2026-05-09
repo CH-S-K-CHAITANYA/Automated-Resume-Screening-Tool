@@ -1,0 +1,53 @@
+ARJUN SHARMA
+arjun.sharma@email.com | +91-9876543210 | linkedin.com/in/arjunsharma | github.com/arjunsharma
+Bengaluru, Karnataka, India
+
+PROFESSIONAL SUMMARY
+--------------------------------------------------
+Experienced Data Scientist with 3+ years building production-grade machine learning 
+and deep learning solutions. Skilled in Python, TensorFlow, PyTorch, and NLP. 
+Passionate about turning data into actionable insights and deploying models at scale.
+
+SKILLS
+--------------------------------------------------
+Programming     : Python, SQL, R, Bash
+ML/DL           : Machine Learning, Deep Learning, Neural Networks, TensorFlow, PyTorch
+NLP             : Natural Language Processing, NLP, Text Classification, Named Entity Recognition
+Data Science    : Pandas, NumPy, Scikit-learn, Feature Engineering, Statistics
+Visualization   : Data Visualization, Matplotlib, Seaborn, Plotly
+APIs & Deploy   : Flask, FastAPI, REST API, Docker, AWS
+Version Control : Git, GitHub
+Other           : Data Analysis, Regression, Classification, Problem Solving, Communication
+
+EXPERIENCE
+--------------------------------------------------
+Data Scientist | TechVision AI, Bengaluru                          (Jan 2022 – Present)
+- Built deep learning classification models using TensorFlow with 94% accuracy
+- Applied NLP techniques for customer sentiment analysis on 1M+ reviews
+- Created data pipelines with Pandas and NumPy; reduced processing time by 40%
+- Developed REST APIs using FastAPI; containerized with Docker on AWS
+- Managed all code using Git; collaborated in agile sprints
+
+Machine Learning Intern | DataWorks India                          (Jun 2021 – Dec 2021)
+- Trained regression and classification models using Scikit-learn
+- Performed feature engineering and statistical analysis on structured datasets
+- Built data visualization dashboards with Matplotlib and Plotly
+- Wrote SQL queries for data extraction from PostgreSQL databases
+
+EDUCATION
+--------------------------------------------------
+M.Tech in Data Science | IIT Bangalore                             2021
+B.Tech in Computer Science | VTU Belgaum                          2019
+
+PROJECTS
+--------------------------------------------------
+- Resume Screening Tool: Built TF-IDF + cosine similarity screening system in Python
+- NLP Sentiment Engine: PyTorch LSTM model for real-time tweet sentiment analysis
+- Sales Forecasting: Regression model deployed as Flask REST API on AWS EC2
+- Image Classifier: CNN using TensorFlow/Keras; 97% accuracy on CIFAR-10 dataset
+
+CERTIFICATIONS
+--------------------------------------------------
+- AWS Certified Machine Learning – Specialty
+- TensorFlow Developer Certificate — Google
+- Deep Learning Specialization — Coursera (Andrew Ng)

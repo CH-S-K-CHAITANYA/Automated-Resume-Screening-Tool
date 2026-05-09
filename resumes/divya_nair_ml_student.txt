@@ -1,0 +1,57 @@
+DIVYA NAIR
+divya.nair@email.com | Kochi, Kerala | github.com/divyanair-ml
+
+ABOUT ME
+--------------------------------------------------
+Final year M.Sc. Data Science student with strong foundations in machine learning,
+deep learning, and Python programming. Completed multiple industry projects and 
+internships. Eager to join a data science team as a full-time engineer.
+
+SKILLS INVENTORY
+--------------------------------------------------
+Strong     : Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis,
+             Statistics, Git, SQL, Data Visualization, Problem Solving
+Proficient : TensorFlow, Deep Learning, Neural Networks, Feature Engineering,
+             Classification, Regression, Natural Language Processing, NLP
+Learning   : PyTorch, Docker, AWS, FastAPI, REST API, Communication
+
+ACADEMIC PROJECTS
+--------------------------------------------------
+Fake News Detection (NLP)                                         2023
+- Built text classification model using NLP + TF-IDF + Logistic Regression in Python
+- Used Pandas, NumPy for data cleaning; Scikit-learn for machine learning pipeline
+- Achieved 91% accuracy on test set; visualized confusion matrix and ROC curve
+
+Movie Recommendation Engine                                       2023
+- Collaborative filtering + content-based filtering using cosine similarity
+- Python backend with Flask API endpoints; deployed on AWS EC2 (basic)
+- Used Git for version control throughout the project
+
+Customer Churn Prediction                                         2022
+- End-to-end machine learning project: EDA → feature engineering → modeling
+- Classification using Random Forest, XGBoost, Scikit-learn
+- Data analysis and statistics to identify churn patterns
+- Data visualization dashboard with Matplotlib and Seaborn
+
+Deep Learning Image Classifier                                    2022
+- CNN model using TensorFlow/Keras for plant disease detection
+- Achieved 89% test accuracy; documented with GitHub README
+
+INTERNSHIP
+--------------------------------------------------
+Data Science Intern | StartupAI, Remote                          (May 2023 – Aug 2023)
+- Performed data analysis on customer datasets using Python and Pandas
+- Built regression models for price prediction using Scikit-learn
+- Wrote SQL queries for data extraction; maintained code with Git
+- Presented findings and data visualizations to the team
+
+EDUCATION
+--------------------------------------------------
+M.Sc. Data Science | Cochin University of Science and Technology  2024 (expected)
+B.Sc. Mathematics and Statistics | Mahatma Gandhi University      2022
+
+CERTIFICATIONS
+--------------------------------------------------
+- Machine Learning (Stanford - Coursera)
+- Python for Data Science (IBM)
+- Natural Language Processing (deeplearning.ai)

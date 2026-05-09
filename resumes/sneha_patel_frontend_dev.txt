@@ -1,0 +1,42 @@
+SNEHA PATEL
+sneha.patel@email.com | Pune, Maharashtra
+
+SUMMARY
+--------------------------------------------------
+Frontend Web Developer with 2 years experience building responsive websites and 
+web applications. Proficient in React, HTML, CSS, and JavaScript. Looking for
+challenging frontend engineering roles.
+
+TECHNICAL SKILLS
+--------------------------------------------------
+- Frontend    : React.js, HTML5, CSS3, JavaScript, TypeScript
+- Styling     : Tailwind CSS, Bootstrap, Sass, Styled Components
+- Tools       : Git, VS Code, Figma, npm, Webpack
+- Backend     : Node.js (basic), Express.js (basic)
+- Database    : MongoDB, basic SQL
+
+EXPERIENCE
+--------------------------------------------------
+Frontend Developer | WebSolutions Inc., Pune                      (Jul 2022 – Present)
+- Built responsive UI components using React and Tailwind CSS
+- Integrated REST APIs from backend teams into React frontend
+- Used Git for version control and code reviews
+- Collaborated with UX designers using Figma prototypes
+- Optimized page load performance by 30%
+
+Web Developer Intern | PixelCraft Studio, Pune                    (Jan 2022 – Jun 2022)
+- Developed HTML/CSS landing pages and UI components
+- Worked with JavaScript for interactive web elements
+
+EDUCATION
+--------------------------------------------------
+B.E. in Information Technology | SPPU Pune                        2022
+
+PROJECTS
+--------------------------------------------------
+- E-Commerce Website: React + Node.js + MongoDB full-stack shop
+- Portfolio Website: Personal portfolio with React and animations
+- Task Manager App: React hooks, local storage, drag-and-drop
+
+NOTE: I am interested in learning Python and exploring data-related fields in future.
+Currently no experience in machine learning, data science, or Python data libraries.

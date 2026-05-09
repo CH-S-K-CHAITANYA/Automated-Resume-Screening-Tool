@@ -1,0 +1,50 @@
+PRIYA MENON
+priya.menon@email.com | +91-9123456789 | Hyderabad, Telangana
+
+SUMMARY
+--------------------------------------------------
+Python developer with 2 years of experience in software development and data analysis.
+Recently transitioning into machine learning and data science roles. Strong foundation
+in programming, databases, and statistical analysis.
+
+TECHNICAL SKILLS
+--------------------------------------------------
+- Languages    : Python, JavaScript, SQL
+- Libraries    : Pandas, NumPy, Matplotlib, Scikit-learn (beginner)
+- Databases    : MySQL, PostgreSQL
+- Tools        : Git, Excel, Jupyter Notebook
+- Web          : Flask (basic), HTML, CSS
+- Cloud        : Basic AWS knowledge
+
+WORK EXPERIENCE
+--------------------------------------------------
+Python Developer | InfoSystems Ltd., Hyderabad                    (Mar 2022 – Present)
+- Wrote Python scripts for data analysis and automation
+- Used Pandas and NumPy for data cleaning and transformation
+- Wrote SQL queries for reporting dashboards
+- Built small Flask API endpoints for internal tools
+- Used Git for version control in a team of 5 developers
+- Created data visualization charts for management reports
+
+Junior Developer | CodeBridge Solutions                            (Jul 2021 – Feb 2022)
+- Python scripting and automation
+- MySQL database management
+- Basic statistics and data analysis tasks
+
+EDUCATION
+--------------------------------------------------
+B.E. in Computer Science | Osmania University, Hyderabad          2021
+
+PROJECTS
+--------------------------------------------------
+- Data Analysis Dashboard: Pandas + Matplotlib dashboard for sales data
+- Student Grade Predictor: Linear regression model using Scikit-learn
+- REST API: Flask API with MySQL backend for a small inventory system
+- GitHub Portfolio: github.com/priyamenon
+
+CURRENTLY LEARNING
+--------------------------------------------------
+- TensorFlow and Deep Learning (Coursera)
+- Natural Language Processing basics
+- Docker and containerization
+- Machine Learning algorithms (Classification, Regression)

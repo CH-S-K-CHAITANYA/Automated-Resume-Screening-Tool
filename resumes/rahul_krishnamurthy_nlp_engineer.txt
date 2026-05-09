@@ -1,0 +1,58 @@
+RAHUL KRISHNAMURTHY
+rahul.k@email.com | Chennai, Tamil Nadu | github.com/rahulnlp
+
+PROFESSIONAL PROFILE
+--------------------------------------------------
+NLP Engineer and Machine Learning practitioner with 4 years of industry experience.
+Deep expertise in Natural Language Processing, deep learning architectures, and
+deploying AI systems in production. Published researcher in NLP.
+
+CORE COMPETENCIES
+--------------------------------------------------
+NLP & AI        : Natural Language Processing, NLP, Text Classification, Named Entity
+                  Recognition, Sentiment Analysis, Question Answering, Transformers,
+                  BERT, GPT, Hugging Face
+Deep Learning   : Deep Learning, Neural Networks, TensorFlow, PyTorch, Keras
+Machine Learning: Machine Learning, Scikit-learn, Regression, Classification, Clustering,
+                  Feature Engineering
+Data            : Python, Pandas, NumPy, SQL, Data Analysis, Statistics
+MLOps           : Docker, AWS, REST API, FastAPI, Git, MLflow
+Visualization   : Data Visualization, Matplotlib, Plotly, TensorBoard
+
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------
+Senior NLP Engineer | LanguageAI Technologies, Chennai            (Jun 2021 – Present)
+- Designed and deployed BERT-based text classification models using PyTorch
+- Built production NLP pipelines processing 500K documents/day on AWS
+- Developed FastAPI microservices for real-time inference (Docker, AWS ECS)
+- Applied feature engineering to improve model F1 scores by 12%
+- Led a team of 3 NLP engineers; conducted code reviews via Git
+- Communicated model results and insights to non-technical leadership
+
+ML Engineer | CogniSoft Pvt Ltd, Chennai                         (Jan 2020 – May 2021)
+- Trained and fine-tuned deep learning models with TensorFlow
+- Performed data analysis and statistical modeling on text datasets
+- Used Pandas, NumPy for large-scale data preprocessing
+- Wrote SQL queries for data extraction and analysis
+- Built REST API endpoints using Flask for internal ML tools
+
+EDUCATION
+--------------------------------------------------
+M.Tech in Artificial Intelligence | IIT Madras                    2020
+B.Tech in Information Technology | Anna University                2018
+
+PUBLICATIONS
+--------------------------------------------------
+- "Efficient NLP Pipeline for Low-Resource Languages" — ACL 2022
+- "BERT Fine-tuning for Domain Adaptation" — EMNLP 2021
+
+CERTIFICATIONS
+--------------------------------------------------
+- Deep Learning Specialization (Coursera)
+- NLP with Deep Learning (Stanford CS224N)
+- AWS Machine Learning Specialty
+
+OPEN SOURCE
+--------------------------------------------------
+- Contributor to Hugging Face Transformers
+- github.com/rahulnlp — 400+ stars on NLP toolkit
