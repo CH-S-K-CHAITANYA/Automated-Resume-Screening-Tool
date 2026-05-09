@@ -19,6 +19,7 @@ env/
 # ── Outputs (generated — track samples only) ──
 outputs/*.csv
 outputs/*.json
+/docs
 
 # ── OS Files ──
 .DS_Store
