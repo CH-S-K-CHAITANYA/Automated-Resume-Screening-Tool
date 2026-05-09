@@ -1,0 +1,50 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# ── Virtual Environment ──
+venv/
+env/
+.venv/
+.env/
+
+# ── Outputs (generated — track samples only) ──
+outputs/*.csv
+outputs/*.json
+
+# ── OS Files ──
+.DS_Store
+.DS_Store?
+Thumbs.db
+*.swp
+
+# ── IDEs ──
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Jupyter ──
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Streamlit ──
+.streamlit/secrets.toml
+
+# ── Sensitive Data ──
+*.env
+secrets.py
+
+# ── Large model files ──
+*.pkl
+*.h5
+*.pt
+*.pth
