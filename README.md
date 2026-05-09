@@ -561,19 +561,19 @@ The dashboard surfaces:
 
 ### Recruiter Dashboard
 
-<img src="screenshots/dashboard.png" width="90%"/>
+<img src="images/dashboard.png" width="90%"/>
 
 <br/><br/>
 
 ### Candidate Analytics
 
-<img src="screenshots/analytics.png" width="90%"/>
+<img src="images/analytics.png" width="90%"/>
 
 <br/><br/>
 
 ### CSV & JSON Reporting
 
-<img src="screenshots/reports.png" width="90%"/>
+<img src="images/reports.png" width="90%"/>
 
 </div>
 
