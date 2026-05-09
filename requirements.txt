@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────
+# Automated Resume Screening Tool — Requirements
+# Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────
+
+# ── Core Data Science ──
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── NLP / ML ──
+scikit-learn>=1.3.0
+
+# ── Text Extraction ──
+pdfplumber>=0.10.0      # PDF text extraction (better than PyPDF2)
+python-docx>=1.0.0      # DOCX extraction
+
+# ── Web Dashboard ──
+streamlit>=1.32.0
+plotly>=5.18.0
+matplotlib>=3.7.0       # Required for pandas background_gradient
+
+# ── Utilities ──
+openpyxl>=3.1.0         # Excel export support
+
+# ── Optional: For advanced NLP ──
+# nltk>=3.8.0           # Uncomment if you want NLTK tokenization
+# spacy>=3.7.0          # Uncomment for advanced NER
+# transformers>=4.36.0  # Uncomment for BERT-based similarity
