@@ -1,0 +1,15 @@
+Name: Angelica Harris
+Email: markgould@example.com
+Phone: +1-495-814-2468x134
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+Python Machine Learning NLP SQL Python Python SQL NLP Machine Learning. I am a Python developer doing Python Machine Learning and SQL NLP SQL.
+
+Skills
+------
+Python, Python, Python, Machine Learning, NLP, NLP, SQL, SQL, SQL

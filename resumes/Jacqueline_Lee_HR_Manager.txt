@@ -1,0 +1,15 @@
+Name: Jacqueline Lee
+Email: paulrogers@example.com
+Phone: (751)437-1435
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+Frontend developer transitioning to backend. Strong Java skills and familiar with web development using HTML and CSS.
+
+Skills
+------
+Java, Spring Boot, HTML, CSS

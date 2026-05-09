@@ -1,0 +1,15 @@
+Name: Gary Mcdonald
+Email: katherinethornton@example.com
+Phone: (449)847-7105x1598
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+5 years of experience developing AI pipelines and NLP models using Python and Pandas. Built scalable Machine Learning applications and integrated with SQL databases.
+
+Skills
+------
+Python, Machine Learning, NLP, SQL, Pandas, Scikit-learn

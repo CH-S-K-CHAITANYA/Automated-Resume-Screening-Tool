@@ -1,0 +1,15 @@
+Name: Mark Fritz
+Email: aallison@example.com
+Phone: 5435022832
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+Backend developer with Python and Django. Wrote REST APIs and connected to SQL databases. Minor exposure to data pipelines.
+
+Skills
+------
+Python, Django, SQL

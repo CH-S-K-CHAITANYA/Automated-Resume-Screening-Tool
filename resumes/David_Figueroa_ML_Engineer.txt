@@ -1,0 +1,15 @@
+Name: David Figueroa
+Email: fwatson@example.net
+Phone: 560.850.4988
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+5 years of experience developing AI pipelines and NLP models using Python and Pandas. Built scalable Machine Learning applications and integrated with SQL databases.
+
+Skills
+------
+Python, Machine Learning, NLP, SQL, Pandas, Scikit-learn

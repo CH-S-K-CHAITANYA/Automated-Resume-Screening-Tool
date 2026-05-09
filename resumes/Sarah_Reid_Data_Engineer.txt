@@ -1,0 +1,15 @@
+Name: Sarah Reid
+Email: rachel92@example.org
+Phone: 718-323-3685x951
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+Backend developer with Python and Django. Wrote REST APIs and connected to SQL databases. Minor exposure to data pipelines.
+
+Skills
+------
+Python, Django, SQL

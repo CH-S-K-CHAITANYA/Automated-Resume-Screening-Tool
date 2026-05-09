@@ -1,0 +1,15 @@
+Name: Jonathan Jones
+Email: hollowayjames@example.com
+Phone: 578-608-9543x0966
+
+Objective
+---------
+Seeking a challenging software role.
+
+Experience
+----------
+Data analyst with 3 years experience. Proficient in Python for data cleaning and SQL for querying. Experienced in creating Tableau dashboards.
+
+Skills
+------
+Python, SQL, Data Analysis, Tableau
