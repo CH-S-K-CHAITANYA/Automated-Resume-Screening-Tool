@@ -1,0 +1,51 @@
+Data Scientist / Machine Learning Engineer
+
+We are seeking a talented and motivated Data Scientist to join our growing AI team.
+You will work closely with our product and engineering teams to design, build, and
+deploy machine learning solutions that power our core products.
+
+Key Responsibilities:
+- Design and implement machine learning and deep learning models for production
+- Perform exploratory data analysis (EDA), feature engineering, and statistical modeling
+- Write clean, maintainable Python code; build data pipelines using Pandas and NumPy
+- Apply NLP techniques for text classification, sentiment analysis, and entity extraction
+- Use TensorFlow and PyTorch to train neural networks
+- Collaborate with data engineers and software engineers
+- Build data visualizations and communicate insights to non-technical stakeholders
+- Deploy models as REST APIs using Flask or FastAPI
+- Containerize services with Docker; work with AWS cloud infrastructure
+- Version control all code with Git
+
+Required Skills:
+- Python (3+ years)
+- Machine Learning fundamentals (regression, classification, clustering)
+- Deep Learning and Neural Networks
+- TensorFlow or PyTorch
+- Scikit-learn
+- Pandas and NumPy
+- Natural Language Processing (NLP)
+- SQL and database querying
+- Data Analysis and Statistics
+- Data Visualization (matplotlib, seaborn, plotly)
+- Git version control
+- REST API development (Flask or FastAPI)
+- Docker containerization
+- AWS cloud services
+- Feature Engineering
+- Problem solving and analytical thinking
+- Strong communication skills
+
+Nice to Have:
+- Experience with Hugging Face Transformers
+- Spark / Hadoop for big data
+- Kubernetes
+- MLflow for experiment tracking
+- Research experience or publications
+
+Education:
+Bachelor's or Master's degree in Computer Science, Data Science, Mathematics,
+Statistics, or a related field.
+
+Location: Remote / Hybrid
+Experience: 2-5 years
+Salary: Competitive, based on experience
